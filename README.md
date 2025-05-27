@@ -4,7 +4,7 @@
 
 This repository showcases a comprehensive sales analysis project built using **Power BI** and supplemented with a **PowerPoint report**. It covers sales performance metrics, regional breakdowns, segment analysis, discount impact, and more — aimed at providing actionable business insights.
 
-![Sales Dashboard Screenshot](./Screenshot%20\(123\).png)
+![Sales Dashboard Screenshot](./Dashboard.png)
 
 ### 🔍 Project Overview
 
